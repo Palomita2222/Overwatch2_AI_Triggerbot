@@ -2,13 +2,15 @@
 This is an automatic triggerbot that uses a CNN model to detect robots in the screen ( only in the training camp ) and then triggers the shoot button when you are aiming at one. Also, Use soldier 76, as it was used for training.
 <h2>
   This project requires the following modules:
-  -Numpy
-  -cv2
-  -pyautogui
-  -tkinter
-  -sklearn
-  -tensorflow
-  -Pillow
+  <ul>
+  <li>-Numpy</li>
+  <li>-cv2</li>
+  <li>-pyautogui</li>
+  <li>-tkinter</li>
+  <li>-sklearn</li>
+  <li>-tensorflow</li>
+  <li>-Pillow</li>
+  </ul>
 </h2>
 <html>
   
