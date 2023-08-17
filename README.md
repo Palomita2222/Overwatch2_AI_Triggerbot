@@ -3,6 +3,6 @@ This is an automatic triggerbot that uses a CNN model to detect robots in the sc
 <html>
   
   
-  <img src="image.png", width=1000px, height=700px>
+  <img src="image.png">
   <img src="video.gif">
 </html>
